@@ -23,3 +23,5 @@ que tenha Node.
 ### 1. Instalar as dependências
 ```bash
 npm install
+npm test
+npm start
